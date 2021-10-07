@@ -1,5 +1,5 @@
 Package: cwdata
-Title: What the Package Does (One Line, Title Case)
+Title: Datasets for the communicating data source
 Version: 0.0.0.9000
 Authors@R: 
     person("Arpan", "Sarkar", , "asar0035@students.monash.edu", role = c("aut", "cre"),
@@ -10,3 +10,5 @@ Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.2
+Depends: 
+    R (>= 2.10)
